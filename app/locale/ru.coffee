@@ -63,7 +63,7 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     goto_classes: "Перейти в Мои классы"
     view_profile: "Посмотреть Мой профиль"
     view_progress: "Посмотреть прогресс"
-#    go_to_courses: "Go to My Courses"
+    go_to_courses: "Перейти к моим курсам"
     want_coco: "Хотите CodeCombat в вашей школе?"
 
   nav:
@@ -99,7 +99,7 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     faqs: "Часто задаваемые вопросы"
     help_pref: "Нужна помощь? Email"
     help_suff: "и мы свяжемся!"
-#    resource_hub: "Resource Hub"
+    resource_hub: "Ресурсообменник"
 
   modal:
     close: "Закрыть"
@@ -385,7 +385,7 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     username: "Имя пользователя"
     contact_us: "Связаться"
     close_window: "Закрыть окно"
-#    learn_more: "Learn More"
+    learn_more: "Узнать больше"
 
   units:
     second: "секунда"
@@ -551,11 +551,11 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     tip_mulan: "Верь, что можешь и получится. - Мулан"
 
 #  play_game_dev_level:
-#    created_by: "Created by {{name}}"
-#    restart: "Restart Level"
-#    play: "Play Level"
-#    play_more_codecombat: "Play More CodeCombat"
-#    default_student_instructions: "Click to control your hero and win your game!"
+    created_by: "Создано {{name}}"
+    restart: "Перезапуск уровня"
+    play: "Играть уровень"
+    play_more_codecombat: "Сыграть ещё CodeCombat"
+    default_student_instructions: "Щелкните, чтобы управлять своим героем и выиграть игру!"
 
   game_menu:
     inventory_tab: "Инвентарь"
@@ -625,8 +625,8 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     feature6: "Эксклюзивная поддержка по электронной почте"
     feature7: "Частные <strong>Кланы</strong>"
     feature8: "<strong>Без рекламы!</strong>"
-#    feature_game_dev: "Make games for your friends to play in our <strong>Game Dev Worlds</strong>"
-#    feature_web_dev: "Build websites and apps with HTML, CSS, and jQuery in our <strong>Web Dev Worlds</strong>"
+    feature_game_dev: "Создавайте игры для своих друзей чтобы играть в наших <strong>Game Dev Worlds</strong>"
+    feature_web_dev: "Создавайте веб-сайты и приложения с использованием HTML, CSS и jQuery в наших <strong>Web Dev Worlds</strong>"
     free: "Бесплатно"
     month: "месяц"
     must_be_logged: "Вы должны быть залогинены. Вы можете создать аккаунт или зайти в уже существующий с помощью меню выше."
@@ -737,8 +737,8 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     current_value: "Текущее значение"
     default_value: "Значение по умолчанию"
     parameters: "Параметры"
-#    required_parameters: "Required Parameters"
-#    optional_parameters: "Optional Parameters"
+    required_parameters: "Обязательные параметры"
+    optional_parameters: "Необязательные параметры"
     returns: "Возвращает"
     granted_by: "Предоставлено"
 
@@ -796,8 +796,8 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     elliot_blurb: "Читающий мысли"
     lisa_title: "Представитель по развитию рынка" # {change}
 #    lisa_blurb: "A gritty one"
-#    sean_title: "Territory Manager"
-#    liz_title: "Territory Manager"
+    sean_title: "Территориальный менеджер"
+    liz_title: "Территориальный менеджер"
     retrostyle_title: "Иллюстрирование"
     retrostyle_blurb: "RetroStyle Games"
     jose_title: "Музыка"
